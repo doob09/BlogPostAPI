@@ -2,7 +2,7 @@
 ## To Start the app: 
 please type the following in command line with the same directory: 
 ```
-It is optional to create Virtual Environments 
+-_It is optional to create Virtual Environments_ 
 virtualenv appenv       // to create work env
 source appenv/bin/activate      // to activate it
 --------------------------
